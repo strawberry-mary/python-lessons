@@ -5,3 +5,5 @@ lessons python by stepik
 -requests
 -pytest
 -и прочее
+
+Перемещен в другую директорию
